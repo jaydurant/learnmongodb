@@ -1,0 +1,23 @@
+{
+  "name": "learnmongodb",
+  "version": "1.0.0",
+  "description": "Exercises used to learn mongodb",
+  "main": "testfind.js",
+  "dependencies": {
+    "mongodb": "^2.1.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydurant/learnmongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydurant/learnmongodb/issues"
+  },
+  "homepage": "https://github.com/jaydurant/learnmongodb#readme"
+}
