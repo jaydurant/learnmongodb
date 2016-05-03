@@ -1,7 +1,6 @@
 var mongo = require('mongodb').MongoClient;
 var url = 'mongodb://localhost:27017/learnyoumongo';
 var limit = parseInt(process.argv[2]);
-
 mongo.connect(url, (err,db) => {
 	if(err){
 		console.log('error in connecting to the database')
